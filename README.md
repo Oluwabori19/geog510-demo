@@ -11,3 +11,8 @@ This is  demo repository for GEOG 510
 You can use this repository to practice using Git and GitHub
 
 ## Contributors
+My self
+
+## License
+
+MIT License
